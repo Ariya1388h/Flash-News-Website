@@ -132,7 +132,7 @@ body.light-theme {
 }
 
 .list {
-    display: felx;
+    display: flex;
     align-items: center;
     gap: var(--gap);
 }
