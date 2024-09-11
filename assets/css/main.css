@@ -1,5 +1,6 @@
 /* Import font */
-@import url('https://fonts.googleapis.com/css2?family=Mirza:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap');
+
 
 /* Custom properties */
 :root{
@@ -13,7 +14,7 @@
         115deg,#4fcf70,#fad648,#a767e5,#12bcfe,#44ce7b);
     --transparent-light-color: rgba(255,255,255,.05);
     --transparent-dark-color: rgba(0,0,0,.75);
-    --font-family: 'Mirza', sans-serif;
+    --font-family: 'Vazirmatn', sans-serif;
     --font-size-xsm: 2.2rem;
     --font-size-sm: 2.2rem;
     --font-size-md: 3.4rem;
@@ -25,6 +26,7 @@
     --item-min-height-sm: 20rem;
     --item-min-height-md: 30rem;
 }
+
 
 /* Base styles */
 *{
